@@ -16,5 +16,5 @@ The project also includes examples of how to use Flutter's routing system to nav
 </p>
 
 <p align="center">
-  <img alt="Main list" src="./assets/readme_assets/web.png" width="500">
+  <img alt="Main list" src="./assets/readme_assets/web.png">
 </p>
